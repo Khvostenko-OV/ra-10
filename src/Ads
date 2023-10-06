@@ -1,0 +1,5 @@
+// Ads banners
+
+export default function Ads({banner}) {
+  const {img, href} = banner;
+}
